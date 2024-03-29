@@ -1,0 +1,16 @@
+id: IC5E658A1
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:35:32.895013
+last_modified: 2023-02-10 00:35:32.895145
+source_metadata:
+  title: 'Śāntideva: Bodhicaryāvatāra'
+  language: zh
+bases:
+  F142:
+    base_file: F142.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

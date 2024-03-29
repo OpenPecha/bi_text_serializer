@@ -1,0 +1,16 @@
+id: I5816F981
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:35:32.482282
+last_modified: 2023-02-10 00:35:32.482454
+source_metadata:
+  title: 'Śāntideva: Bodhicaryāvatāra'
+  language: sa
+bases:
+  EAC1:
+    base_file: EAC1.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

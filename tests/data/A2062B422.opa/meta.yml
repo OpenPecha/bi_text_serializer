@@ -1,0 +1,27 @@
+id: A2062B422
+title: 'Śāntideva: Bodhicaryāvatāra'
+type: translation
+pechas:
+- I5816F981
+- IC5E658A1
+- I2AE4A92A
+- I348B44F7
+source_metadata:
+  languages:
+  - mon
+  - sa
+  - zh
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:37:05.420577
+  last_modified_at: 2023-02-10 00:37:05.420592
+alignment_to_base:
+  I5816F981/EAC1: C52F
+  IC5E658A1/F142: C52F
+  I76B64637/0B15: C52F
+  I2AE4A92A/2384: C52F
+  I348B44F7/0DA7: C52F
+  IE18EE205/2F3A: C52F
+  I7B874943/F649: C52F
